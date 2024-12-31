@@ -1,0 +1,6 @@
+{
+  "extends": "@tsconfig/node-lts/tsconfig.json",
+  "compilerOptions": {},
+  "include": ["scraper"],
+  "exclude": ["node_modules"]
+}
